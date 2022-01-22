@@ -5,4 +5,4 @@ Below is an image of the website as it displays in the browser:
 
 ## Source Code
 - HTML: [Source Code](https://github.com/lizz02/waa/blob/main/waa-home.html)
-- CSS: [Source Code] (https://github.com/lizz02/waa/blob/main/waa.css)
+- CSS: [Source Code](https://github.com/lizz02/waa/blob/main/waa.css)
